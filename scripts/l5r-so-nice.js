@@ -4,7 +4,7 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
         async function loadColors(){
                 dice3d.addColorset({
                         name: 'l5r-crab',
-                        description: "L5R - Crab",
+                        description: "Crab",
                         category: "L5R-so-Nice",
                         foreground: '#000000',
                         background: "#0000a0",
@@ -17,7 +17,7 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
                 }, "default");
                 dice3d.addColorset({
                         name: 'l5r-crane',
-                        description: "L5R - Crane",
+                        description: "Crane",
                         category: "L5R-so-Nice",
                         foreground: '#000000',
                         background: "#5e5eff",
@@ -30,7 +30,7 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
                 }, "default");
                 dice3d.addColorset({
                         name: 'l5r-dragon',
-                        description: "L5R - Dragon",
+                        description: "Dragon",
                         category: "L5R-so-Nice",
                         foreground: '#000000',
                         background: "#004000",
@@ -43,7 +43,7 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
                 }, "default");
                 dice3d.addColorset({
                         name: 'l5r-lion',
-                        description: "L5R - Lion",
+                        description: "Lion",
                         category: "L5R-so-Nice",
                         foreground: '#000000',
                         background: "#919100",
@@ -56,7 +56,7 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
                 }, "default");
                 dice3d.addColorset({
                         name: 'l5r-phoenix',
-                        description: "L5R - Phoenix",
+                        description: "Phoenix",
                         category: "L5R-so-Nice",
                         foreground: '#000000',
                         background: "#d24400",
@@ -69,7 +69,7 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
                 }, "default");
                 dice3d.addColorset({
                         name: 'l5r-scorpion',
-                        description: "L5R - Scorpion",
+                        description: "Scorpion",
                         category: "L5R-so-Nice",
                         foreground: '#000000',
                         background: "#800000",
@@ -82,7 +82,7 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
                 }, "default");
                 dice3d.addColorset({
                         name: 'l5r-unicorn',
-                        description: "L5R - Unicorn",
+                        description: "Unicorn",
                         category: "L5R-so-Nice",
                         foreground: '#000000',
                         background: "#400080",
@@ -107,37 +107,51 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
                 // Configuring the Faces themselves
                 await dice3d.addDicePreset({
                         type:"d10",
-                        labels:[ '1','2','3','4','5','6','7','8','9','modules/l5r-so-nice/faces/crab10.webp' ],
+                        labels:[
+                                '1','2','3','4','5','6','7','8','9','modules/l5r-so-nice/faces/crab10.webp'
+                        ],
                         system:"l5r-face-crab"
                 });
                 await dice3d.addDicePreset({
                         type:"d10",
-                        labels:[ '1','2','3','4','5','6','7','8','9','modules/l5r-so-nice/faces/crane10.webp' ],
+                        labels:[
+                                '1','2','3','4','5','6','7','8','9','modules/l5r-so-nice/faces/crane10.webp'
+                        ],
                         system:"l5r-face-crane"
                 });
                 await dice3d.addDicePreset({
                         type:"d10",
-                        labels:[ '1','2','3','4','5','6','7','8','9','modules/l5r-so-nice/faces/dragon10.webp' ],
+                        labels:[
+                                '1','2','3','4','5','6','7','8','9','modules/l5r-so-nice/faces/dragon10.webp'
+                        ],
                         system:"l5r-face-dragon"
                 });
                 await dice3d.addDicePreset({
                         type:"d10",
-                        labels:[ '1','2','3','4','5','6','7','8','9','modules/l5r-so-nice/faces/lion10.webp' ],
+                        labels:[
+                                '1','2','3','4','5','6','7','8','9','modules/l5r-so-nice/faces/lion10.webp'
+                        ],
                         system:"l5r-face-lion"
                 });
                 await dice3d.addDicePreset({
                         type:"d10",
-                        labels:[ '1','2','3','4','5','6','7','8','9','modules/l5r-so-nice/faces/phoenix10.webp' ],
+                        labels:[
+                                '1','2','3','4','5','6','7','8','9','modules/l5r-so-nice/faces/phoenix10.webp'
+                        ],
                         system:"l5r-face-phoenix"
                 });
                 await dice3d.addDicePreset({
                         type:"d10",
-                        labels:[ '1','2','3','4','5','6','7','8','9','modules/l5r-so-nice/faces/scorpion10.webp' ],
+                        labels:[
+                                '1','2','3','4','5','6','7','8','9','modules/l5r-so-nice/faces/scorpion10.webp'
+                        ],
                         system:"l5r-face-scorpion"
                 });
                 await dice3d.addDicePreset({
                         type:"d10",
-                        labels:[ '1','2','3','4','5','6','7','8','9','modules/l5r-so-nice/faces/unicorn10.webp' ],
+                        labels:[
+                                '1','2','3','4','5','6','7','8','9','modules/l5r-so-nice/faces/unicorn10.webp'
+                        ],
                         system:"l5r-face-unicorn"
                 });
         }

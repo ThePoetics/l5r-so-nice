@@ -2,7 +2,7 @@
   "id": "l5r-so-nice",
   "title": "L5R so Nice",
   "description": "Adds L5R-themed dice presets to Dice so Nice.",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "readme": "https://github.com/ThePoetics/l5r-so-nice/blob/main/README.md",
   "changelog": "",
   "authors": [
@@ -18,7 +18,7 @@
     "scripts/l5r-so-nice.js"
   ],
   "url": "",
-  "download": "https://github.com/ThePoetics/l5r-so-nice/releases/download/1.0.1/module.zip",
+  "download": "https://github.com/ThePoetics/l5r-so-nice/releases/download/1.1.0/module.zip",
   "manifest": "https://github.com/ThePoetics/l5r-so-nice/releases/latest/download/module.json",
   "relationships": {
     "requires": [

@@ -258,7 +258,7 @@ Hooks.on("diceSoNiceReady", (dice3d) => {
                 dice3d.addDicePreset({
                         type:"d10",
                         labels:[
-                          "1","2","3","4","5","6","7","8","9","modules/l5r-so-nice/faces/monk10.webp"
+                          "1","2","3","4","5","6","7","8","9","modules/l5r-so-nice/faces/shinsei10.webp"
                         ],
                         //type:"dc",
                         //labels:[

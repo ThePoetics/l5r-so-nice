@@ -194,10 +194,10 @@ Hooks.on("diceSoNiceReady", (dice3d) => {
                         labels:[
                           "1","2","3","4","5","6","7","8","9","modules/l5r-so-nice/faces/crab10.webp"
                         ],
-                        type:"dc",
-                        labels:[
-                          "modules/l5r-so-nice/faces/shadowlands2.webp","modules/l5r-so-nice/faces/imperial1.webp"
-                        ],
+                        //type:"dc",
+                        //labels:[
+                        //  "modules/l5r-so-nice/faces/shadowlands2.webp","modules/l5r-so-nice/faces/imperial1.webp"
+                        //],
                         system:"l5r-face-crab"
                 });
                 dice3d.addDicePreset({
@@ -205,10 +205,10 @@ Hooks.on("diceSoNiceReady", (dice3d) => {
                         labels:[
                           "1","2","3","4","5","6","7","8","9","modules/l5r-so-nice/faces/crane10.webp"
                         ],
-                        type:"dc",
-                        labels:[
-                          "modules/l5r-so-nice/faces/shadowlands2.webp","modules/l5r-so-nice/faces/imperial1.webp"
-                        ],
+                        //type:"dc",
+                        //labels:[
+                        //  "modules/l5r-so-nice/faces/shadowlands2.webp","modules/l5r-so-nice/faces/imperial1.webp"
+                        //],
                         system:"l5r-face-crane"
                 });
                 dice3d.addDicePreset({
@@ -216,10 +216,10 @@ Hooks.on("diceSoNiceReady", (dice3d) => {
                         labels:[
                           "1","2","3","4","5","6","7","8","9","modules/l5r-so-nice/faces/dragon10.webp"
                         ],
-                        type:"dc",
-                        labels:[
-                          "modules/l5r-so-nice/faces/shadowlands2.webp","modules/l5r-so-nice/faces/imperial1.webp"
-                        ],
+                        //type:"dc",
+                        //labels:[
+                        //  "modules/l5r-so-nice/faces/shadowlands2.webp","modules/l5r-so-nice/faces/imperial1.webp"
+                        //],
                         system:"l5r-face-dragon"
                 });
                 dice3d.addDicePreset({
@@ -227,10 +227,10 @@ Hooks.on("diceSoNiceReady", (dice3d) => {
                         labels:[
                           "1","2","3","4","5","6","7","8","9","modules/l5r-so-nice/faces/imperial10.webp"
                         ],
-                        type:"dc",
-                        labels:[
-                          "modules/l5r-so-nice/faces/shadowlands2.webp","modules/l5r-so-nice/faces/imperial1.webp"
-                        ],
+                        //type:"dc",
+                        //labels:[
+                        //  "modules/l5r-so-nice/faces/shadowlands2.webp","modules/l5r-so-nice/faces/imperial1.webp"
+                        //],
                         system:"l5r-face-imperial"
                 });
                 dice3d.addDicePreset({
@@ -238,10 +238,10 @@ Hooks.on("diceSoNiceReady", (dice3d) => {
                         labels:[
                           "1","2","3","4","5","6","7","8","9","modules/l5r-so-nice/faces/lion10.webp"
                         ],
-                        type:"dc",
-                        labels:[
-                          "modules/l5r-so-nice/faces/shadowlands2.webp","modules/l5r-so-nice/faces/imperial1.webp"
-                        ],
+                        //type:"dc",
+                        //labels:[
+                        //  "modules/l5r-so-nice/faces/shadowlands2.webp","modules/l5r-so-nice/faces/imperial1.webp"
+                        //],
                         system:"l5r-face-lion"
                 });
                 dice3d.addDicePreset({
@@ -249,10 +249,10 @@ Hooks.on("diceSoNiceReady", (dice3d) => {
                         labels:[
                           "1","2","3","4","5","6","7","8","9","modules/l5r-so-nice/faces/mantis10.webp"
                         ],
-                        type:"dc",
-                        labels:[
-                          "modules/l5r-so-nice/faces/shadowlands2.webp","modules/l5r-so-nice/faces/imperial1.webp"
-                        ],
+                        //type:"dc",
+                        //labels:[
+                        //  "modules/l5r-so-nice/faces/shadowlands2.webp","modules/l5r-so-nice/faces/imperial1.webp"
+                        //],
                         system:"l5r-face-mantis"
                 });
                 dice3d.addDicePreset({
@@ -260,10 +260,10 @@ Hooks.on("diceSoNiceReady", (dice3d) => {
                         labels:[
                           "1","2","3","4","5","6","7","8","9","modules/l5r-so-nice/faces/monk10.webp"
                         ],
-                        type:"dc",
-                        labels:[
-                          "modules/l5r-so-nice/faces/shadowlands2.webp","modules/l5r-so-nice/faces/imperial1.webp"
-                        ],
+                        //type:"dc",
+                        //labels:[
+                        //  "modules/l5r-so-nice/faces/shadowlands2.webp","modules/l5r-so-nice/faces/imperial1.webp"
+                        //],
                         system:"l5r-face-monk"
                 });
                 dice3d.addDicePreset({
@@ -271,10 +271,10 @@ Hooks.on("diceSoNiceReady", (dice3d) => {
                         labels:[
                           "1","2","3","4","5","6","7","8","9","modules/l5r-so-nice/faces/phoenix10.webp"
                         ],
-                        type:"dc",
-                        labels:[
-                          "modules/l5r-so-nice/faces/shadowlands2.webp","modules/l5r-so-nice/faces/imperial1.webp"
-                        ],
+                        //type:"dc",
+                        //labels:[
+                        //  "modules/l5r-so-nice/faces/shadowlands2.webp","modules/l5r-so-nice/faces/imperial1.webp"
+                        //],
                         system:"l5r-face-phoenix"
                 });
                 dice3d.addDicePreset({
@@ -282,10 +282,10 @@ Hooks.on("diceSoNiceReady", (dice3d) => {
                         labels:[
                           "1","2","3","4","5","6","7","8","9","modules/l5r-so-nice/faces/ronin10.webp"
                         ],
-                        type:"dc",
-                        labels:[
-                          "modules/l5r-so-nice/faces/shadowlands2.webp","modules/l5r-so-nice/faces/imperial1.webp"
-                        ],
+                        //type:"dc",
+                        //labels:[
+                        //  "modules/l5r-so-nice/faces/shadowlands2.webp","modules/l5r-so-nice/faces/imperial1.webp"
+                        //],
                         system:"l5r-face-ronin"
                 });
                 dice3d.addDicePreset({
@@ -293,10 +293,10 @@ Hooks.on("diceSoNiceReady", (dice3d) => {
                         labels:[
                           "1","2","3","4","5","6","7","8","9","modules/l5r-so-nice/faces/scorpion10.webp"
                         ],
-                        type:"dc",
-                        labels:[
-                          "modules/l5r-so-nice/faces/shadowlands2.webp","modules/l5r-so-nice/faces/imperial1.webp"
-                        ],
+                        //type:"dc",
+                        //labels:[
+                        //  "modules/l5r-so-nice/faces/shadowlands2.webp","modules/l5r-so-nice/faces/imperial1.webp"
+                        //],
                         system:"l5r-face-scorpion"
                 });
                 dice3d.addDicePreset({
@@ -304,10 +304,10 @@ Hooks.on("diceSoNiceReady", (dice3d) => {
                         labels:[
                           "1","2","3","4","5","6","7","8","9","modules/l5r-so-nice/faces/shadowlands10.webp"
                         ],
-                        type:"dc",
-                        labels:[
-                          "modules/l5r-so-nice/faces/shadowlands2.webp","modules/l5r-so-nice/faces/imperial1.webp"
-                        ],
+                        //type:"dc",
+                        //labels:[
+                        //  "modules/l5r-so-nice/faces/shadowlands2.webp","modules/l5r-so-nice/faces/imperial1.webp"
+                        //],
                         system:"l5r-face-shadow"
                 });
                 dice3d.addDicePreset({
@@ -315,10 +315,10 @@ Hooks.on("diceSoNiceReady", (dice3d) => {
                         labels:[
                           "1","2","3","4","5","6","7","8","9","modules/l5r-so-nice/faces/spider10.webp"
                         ],
-                        type:"dc",
-                        labels:[
-                          "modules/l5r-so-nice/faces/shadowlands2.webp","modules/l5r-so-nice/faces/imperial1.webp"
-                        ],
+                        //type:"dc",
+                        //labels:[
+                        //  "modules/l5r-so-nice/faces/shadowlands2.webp","modules/l5r-so-nice/faces/imperial1.webp"
+                        //],
                         system:"l5r-face-spider"
                 });
                 dice3d.addDicePreset({
@@ -326,10 +326,10 @@ Hooks.on("diceSoNiceReady", (dice3d) => {
                         labels:[
                           "1","2","3","4","5","6","7","8","9","modules/l5r-so-nice/faces/unicorn10.webp"
                         ],
-                        type:"dc",
-                        labels:[
-                          "modules/l5r-so-nice/faces/shadowlands2.webp","modules/l5r-so-nice/faces/imperial1.webp"
-                        ],
+                        //type:"dc",
+                        //labels:[
+                        //  "modules/l5r-so-nice/faces/shadowlands2.webp","modules/l5r-so-nice/faces/imperial1.webp"
+                        //],
                         system:"l5r-face-unicorn"
                 });
         }

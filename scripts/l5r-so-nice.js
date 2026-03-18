@@ -47,8 +47,8 @@ Hooks.on("diceSoNiceReady", (dice3d) => {
                         category: "L5R-so-Nice",
                         foreground: "#345F5D",
                         background: "#FFF3D9",
-                        outline: "#FFF3D9",
-                        edge: "#345F5D",
+                        outline: "#345F5D",
+                        edge: "#FFF3D9",
                         material: "plastic",
                         texture: "paper",
                         font: "Amiri",
@@ -186,7 +186,7 @@ Hooks.on("diceSoNiceReady", (dice3d) => {
                 dice3d.addSystem({id:"l5r-face-ronin",name:"L5R - Ronin"},false);
                 dice3d.addSystem({id:"l5r-face-scorpion",name:"L5R - Scorpion"},false);
                 dice3d.addSystem({id:"l5r-face-shadow",name:"L5R - Shadowlands"},false);
-                dice3d.addSystem({id:"l5r-face-spider",name:"L5R - spider"},false);
+                dice3d.addSystem({id:"l5r-face-spider",name:"L5R - Spider"},false);
                 dice3d.addSystem({id:"l5r-face-unicorn",name:"L5R - Unicorn"},false);
                 // Configuring the Faces themselves
                 dice3d.addDicePreset({
